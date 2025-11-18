@@ -1,4 +1,4 @@
-# MARS ROVER –- Exploração de Marte 3D
+# MARS ROVER — Exploração de Marte 3D
 
 ![Visualização da Exploração de Marte](./rover.jpg)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
