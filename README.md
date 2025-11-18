@@ -98,15 +98,36 @@ MARS ROVER/
 │       ├── mars_base.glb
 │       └── nasa_curiosity_clean.glb
 ├── src/
-│   ├── main.js
-│   ├── index.html
-│   ├── package-lock.json
-│   ├── package.json
-│   └── README
+│   └── index.html
+├── main.js
+├── package-lock.json
+├── package.json
+└── README
 ```
+---
 
+# Créditos e Licenças
 
+## Modelos 3D
 
+- "Mars One" Mission - Base - 3D model by admone [Sketchfab](https://sketchfab.com/3d-models/mars-one-mission-base-83ced347037f47aba8473147d65df074) — CC BY 4.0
+- NASA Curiosity (Clean) - 3D model by Thomas Flynn [Sketchfab](https://sketchfab.com/3d-models/nasa-curiosity-clean-0696a383f3e841d2b5c7636ee8a58aba) — CC BY 4.0
+
+## Texturas
+
+- Seamless Mars Landscape Terrain - Smooth Erosion | 3D model [CGTrader](https://www.cgtrader.com/free-3d-models/exterior/sci-fi-exterior/16k-seamless-mars-landscape-smooth-erosion)
+
+---
+
+# Instruções de Execução
+
+```
+No terminal:
+
+- NPM INSTALL
+
+- NPX VITE
+```
 
 
 
