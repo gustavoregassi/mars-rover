@@ -2,8 +2,6 @@
 
 ![Visualização da Exploração de Marte](./rover.jpg)
 
-### Tecnologias Usadas
-
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
 ![WebGL](https://img.shields.io/badge/WebGL-000000?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite)
