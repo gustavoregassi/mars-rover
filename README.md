@@ -91,7 +91,19 @@ O objetivo é combinar **simulação científica** com **imersão do jogador**, 
 
 ---
 
-# Estrutura do Projeto
+```text
+MARS ROVER/
+├── modelos/
+│   └── textures/
+│       ├── mars_base.glb
+│       └── nasa_curiosity_clean.glb
+├── src/
+│   ├── main.js
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   └── README
+```
 
 
 
